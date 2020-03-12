@@ -2,6 +2,9 @@
 ## 勝率ToP6のポケモン  
   winratio_top6
 
+## 勝敗と関係性の高い特徴量の分析 
+feature_extraction
+
 ## 対面の勝率予測
 * k-NN  
 predict_combat_knn
